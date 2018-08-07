@@ -2,7 +2,7 @@ a
 ad
 wq
 dqw
-d
+dfdsafasd
 qd
 qdfasdfdsadfwd
 qwd
@@ -17,3 +17,6 @@ qwd
 = 1
 
 abc
+b = 2
+
+c = 3
